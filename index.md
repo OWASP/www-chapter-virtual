@@ -14,7 +14,7 @@ meetup-group: Coming Soon!
 ## Welcome
 The OWASP Virtual Chapter invites everyone in the community to join our weekly meetings. We meet online every Tuesday at 12 PM ET via Zoom for an hour. Attendance is free, however, we do ask that you register. 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Next Meeting <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 April 2, 2025 12 PM ET (https://www.worldtimebuddy.com/) Zoom details will be provided soon!
 
