@@ -13,6 +13,7 @@ meetup-group: Coming Soon!
 
 ## Welcome
 ![OWASP Virtual Chapter](assets/images/OWASPVirtualChapterLargeTextGlow.png)
+
 Welcome to the OWASP Virtual Chapter home page!
 
 The OWASP Virtual Chapter invites everyone in the community to join our weekly meetings to hear from some of the brightest cybersecurity professionals. We meet online every Tuesday at 12 PM ET via Zoom for an hour. Attendance is free, however, we do ask that you register. 
