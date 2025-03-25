@@ -18,6 +18,9 @@ Next Meeting <!-- You should keep this section as it will populate your meetup e
 ---------------------
 April 2, 2025 12 PM ET (https://www.worldtimebuddy.com/) Zoom details will be provided soon!
 
+## Interested in Speaking or Sponsoring?
+Please reach out to the OWASP Virtual Chapter Leaders for more details. 
+
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
