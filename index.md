@@ -40,7 +40,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 April 2, 2025 12 PM ET (https://www.worldtimebuddy.com/)
-{% include chapter_events.html group=page.meetup-group %}
 
 <!-- You should delete this comment
 
