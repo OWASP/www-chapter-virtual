@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Virtual Chapter
-tags: example-tag
+tags: 
 region: Virtual
 country: Virtual
 meetup-group: Coming Soon!
