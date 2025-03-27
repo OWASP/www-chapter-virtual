@@ -26,7 +26,7 @@ Zoom details will be provided soon!
 ## Interested in Speaking or Sponsoring?
 Please reach out to the [OWASP Virtual Chapter Leaders](mailto:virtual-chapter-leaders@owasp.org) for more details.
 
-## Join our Mailing List
+## Join our Chapter Mailing List
 Keep up to date on our meetings by joining the Virtual Chapter Mailing List [here](https://docs.google.com/forms/d/1iuhEetbOH2iEtSDQWwaDD6nZjjx6-1rcsNZccM49VYM/edit?ts=67e315cf)
 
 ## Participation
