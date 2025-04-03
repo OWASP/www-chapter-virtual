@@ -9,7 +9,7 @@ meetup-group: Coming Soon!
 
 ---
 
-<div style='color:red;'>
+
 
 ## Welcome
 ![OWASP Virtual Chapter](assets/images/OWASPVirtualChapterLargeTextGlow.png)
