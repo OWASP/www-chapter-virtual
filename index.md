@@ -38,6 +38,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 
 ## Next Meeting/Event
----------------------
-Check us out on [Meet-Up}(https://www.meetup.com/owasp-virtual-chapter/)
+Check us out on [Meet-Up](https://www.meetup.com/owasp-virtual-chapter/)
 
