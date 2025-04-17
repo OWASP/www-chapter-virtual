@@ -20,7 +20,7 @@ The OWASP Virtual Chapter invites everyone in the community to join our weekly m
 
 ## Next Meeting
 May 7, 2025, 12 PM ET [Worldtime Buddy](https://www.worldtimebuddy.com/)<br>
-Details will be provided soon!
+For upcoming events, please join our community on [Meet-Up](https://www.meetup.com/owasp-virtual-chapter/)
 
 ## Interested in Speaking or Sponsoring?
 Please reach out to the [OWASP Virtual Chapter Leaders](mailto:virtual-chapter-leaders@owasp.org) for more details.
