@@ -5,7 +5,7 @@ title: OWASP Virtual Chapter
 tags: 
 region: Virtual
 country: 
-meetup-group: Coming Soon!
+meetup-group: [Meet-Up](https://www.meetup.com/owasp-virtual-chapter/)
 
 ---
 
