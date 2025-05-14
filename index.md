@@ -25,8 +25,9 @@ For upcoming meetings, please visit and join our community on [Meet-Up](https://
 ## Interested in Speaking or Sponsoring?
 Please reach out to the [OWASP Virtual Chapter Leaders](mailto:virtual-chapter-leaders@owasp.org) for more details.
 
-## Join our Chapter Mailing List
+## Join our Chapter Mailing List and Slack Channel
 Keep up to date on our meetings by joining the Virtual Chapter Mailing List [here](https://docs.google.com/forms/d/1iuhEetbOH2iEtSDQWwaDD6nZjjx6-1rcsNZccM49VYM/edit?ts=67e315cf).
+Join our Virtual Chapter Slack Channel at #chapter-virtual
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
