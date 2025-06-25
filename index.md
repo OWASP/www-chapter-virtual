@@ -16,8 +16,7 @@ meetup-group: OWASP-virtual-chapter
 
 Welcome to the OWASP Virtual Chapter home page!
 
-The OWASP Virtual Chapter invites everyone in the community to join our weekly meetings to hear from some of the brightest cybersecurity professionals. We meet online every other Wednesday at 12 PM ET via Zoom for an hour. 
-
+The OWASP Virtual Chapter invites everyone in the community to join our weekly meetings to hear from some of the brightest cybersecurity professionals.
 ## Next Meeting
 May 21, 2025, 12 PM ET [Worldtime Buddy](https://www.worldtimebuddy.com/)<br>
 For upcoming meetings, please visit and join our community on [Meet-Up](https://www.meetup.com/owasp-virtual-chapter/)
