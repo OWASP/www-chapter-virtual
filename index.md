@@ -19,7 +19,15 @@ Welcome to the OWASP Virtual Chapter home page!
 The OWASP Virtual Chapter invites everyone in the community to join our weekly meetings to hear from some of the brightest cybersecurity professionals. 
 
 ## Next Meeting
-For upcoming meetings, please visit and join our community on [Meet-Up](https://www.meetup.com/owasp-virtual-chapter/)
+Wedensday, January 21 12PM/EST Zoom Link: To follow shortly
+
+"MCP and the AI Security Cross Roads" with guest speaker Matt Tesauro
+
+The rapid integration of Large Language Models (LLMs) into enterprise applications presents a new risk frontier for security professionals. While powerful, these integrations—especially those using third-party models—can create significant blind spots in data governance and security architecture. This session provides a practical framework for security architects and developers to navigate these challenges.
+
+We will dissect protocols like the Model Context Protocol (MCP) to demonstrate how "frictionless" interoperability shifts the entire security burden onto the implementing organization. Moving beyond theory, this talk will introduce a robust strategy founded on three core principles: Visibility into data flows, Customization of security controls, and Control over AI interactions. Attendees will leave with actionable techniques to ensure their AI integrations are built on a foundation of security, not just convenience.
+
+For all upcoming meetings, please visit and join our community on [Meet-Up](https://www.meetup.com/owasp-virtual-chapter/)
 
 ## Interested in Speaking or Sponsoring?
 Please reach out to the [OWASP Virtual Chapter Leaders](mailto:virtual-chapter-leaders@owasp.org) for more details.
