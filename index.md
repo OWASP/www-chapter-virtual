@@ -21,7 +21,7 @@ The OWASP Virtual Chapter invites everyone in the community to join our weekly m
 ## Next and Upcoming Meetings
 **Wedensday, January 21 12PM/EST** Zoom Link: To follow shortly
 
-_MCP and the AI Security Cross Roads_ with guest speaker: Matt Tesauro
+_MCP and the AI Security Cross Roads_ with guest speaker: [Matt Tesauro](https://www.linkedin.com/in/matttesauro/)
 
 The rapid integration of Large Language Models (LLMs) into enterprise applications presents a new risk frontier for security professionals. While powerful, these integrations—especially those using third-party models—can create significant blind spots in data governance and security architecture. This session provides a practical framework for security architects and developers to navigate these challenges.
 
