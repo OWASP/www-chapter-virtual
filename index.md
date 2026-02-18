@@ -19,7 +19,7 @@ Welcome to the OWASP Virtual Chapter home page!
 The OWASP Virtual Chapter invites everyone in the community to join our weekly meetings to hear from some of the brightest cybersecurity professionals. 
 
 ## Next and Upcoming Meetings
-**Wednesday, February 18 12PM/EST** Zoom Link: To follow shortly
+**Wednesday, February 18 12PM/EST** [Zoom Link:](https://us06web.zoom.us/j/84272576111?pwd=7dqgSbOaj4ZbxF23g1Ky66bR7pw3Uq.1#success)
 
 _44 Years to Clear Your Backlog: The Math That Doesn't Add Up_ with guest speaker: [Bruce Fram](https://www.linkedin.com/in/bruce-fram/)
 
